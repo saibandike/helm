@@ -1,5 +1,4 @@
-```t
-|Python|
+```python
 ---
 hello
 ```
